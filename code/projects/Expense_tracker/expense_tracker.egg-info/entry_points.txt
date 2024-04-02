@@ -1,0 +1,2 @@
+[console_scripts]
+expense_tracker = expense_tracker:main

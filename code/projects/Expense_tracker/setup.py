@@ -16,5 +16,9 @@ setup(
     author='Jason Sul',
     author_email='Narusul04@gmail.com',
     description='A basic expense tracker.',
-    url='https://github.com/Narusul04/public_repo/tree/main/code/projects/Expense_tracker',
+    url='https://github.com/Narusul04/public_repo/tree/main/code/projects/Expense_trackerpip-check',
 )
+
+"""
+Just a basic expense script. : D
+"""
