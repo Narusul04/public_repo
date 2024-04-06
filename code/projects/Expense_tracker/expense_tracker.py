@@ -2,7 +2,9 @@ import json
 import time
 import os
 
-
+#include a daily save feature/pick somthing daily to save/break a bad habit
+#include a monthly income
+#include a static bank amount
 
 def add_expense(expenses, amount, category):
     expenses.append({'amount': amount, 'category': category})
